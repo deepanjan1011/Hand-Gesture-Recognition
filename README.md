@@ -1,4 +1,4 @@
-**Hand Sign Recognition Using Machine Learning**
+#**Hand Sign Recognition Using Machine Learning:**
 This project demonstrates a hand recognition system built with TensorFlow, OpenCV, and Machine Learning techniques. It allows users to interact using hand signs, collect custom data, and recognize alphabets via gestures.
 
 **Features**
@@ -42,8 +42,8 @@ python test.py
 **Setup**
 1. Clone this repository:
 **bash:**
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/deepanjan1011/Hand-Gesture-Recognition.git
+cd Hand-Gesture-Recognition
 
 2. Install the virtual environment:
 **bash:**
