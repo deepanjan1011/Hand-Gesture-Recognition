@@ -1,4 +1,4 @@
-#**Hand Sign Recognition Using Machine Learning:**
+**#Hand Sign Recognition Using Machine Learning:**
 This project demonstrates a hand recognition system built with TensorFlow, OpenCV, and Machine Learning techniques. It allows users to interact using hand signs, collect custom data, and recognize alphabets via gestures.
 
 **Features**
