@@ -1,9 +1,8 @@
 # Hand Gesture Recognition Using MediaPipe 🖐️
 
-![Cat waving paw](https://placekitten.com/800/300)
+![Cat waving gif](https://cataas.com/cat/gif/says/Hand%20Gesture%20Recognition?size=50&color=orange)
 
 A Python-based hand pose estimation system using MediaPipe with a simple MLP for recognizing hand signs and finger gestures.
-
 
 ## ✨ Demo
 
