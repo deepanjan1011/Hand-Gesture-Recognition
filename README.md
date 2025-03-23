@@ -4,7 +4,6 @@
 
 A Python-based hand pose estimation system using MediaPipe with a simple MLP for recognizing hand signs and finger gestures.
 
-> ❗ **This is an English translated version of the [original repo](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe). All content including comments and notebooks has been translated to English.** ❗
 
 ## ✨ Demo
 
